@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coronaphuquoc-deno.coronaphuquoc.deno.net/sitemap.xml
